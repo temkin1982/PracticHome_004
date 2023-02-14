@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TMS_Practic_005/1.0.0": {
+        "runtime": {
+          "TMS_Practic_005.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TMS_Practic_005/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
